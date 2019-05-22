@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Source Code Pro for Powerline:pixelsize=14:antialias=true:autohint=true";
+static char *font = "Roboto Mono for Powerline:size=10";
 static int borderpx = 2;
 
 /*
